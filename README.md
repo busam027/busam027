@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up Myself B.Jahnavi Jyotsna</h1>
 
-<p align="center">
+<p>
 🎓 I'm a final-year student from the Health Informatics branch, where I explore how data, technology, and human-centered design can revolutionize healthcare delivery.<br>
 ⚕️ From electronic health records to AI-driven diagnostics, I’m passionate about building systems that enhance clinical workflows and patient outcomes.<br>
 💡 I'm especially interested in biomedical data science, health data interoperability, and improving digital health accessibility.<br>
@@ -47,45 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="60" alt="numpy logo" />
 </div>
-
----
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/busam2004@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.hackerrank.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" />
-  </a>
-  <a href="mailto:busam2004@gmail.com target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/bjahnavijyotsna" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=bjahnavijyotsna&theme=radical&margin-w=10&no-frame=true" alt="GitHub trophies" />
-  </a>
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-  <a href="https://github.com/bjahnavijyotsna" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bjahnavijyotsna&theme=radical" alt="GitHub streak" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bjahnavijyotsna&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-## 📘 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjahnavijyotsna&layout=compact&theme=radical" alt="Top languages" />
-</p>
